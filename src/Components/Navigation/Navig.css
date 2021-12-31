@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+nav p{
+    cursor: pointer;
+    font-size: 1.4rem;
+    font-family: monospace;
+    letter-spacing: 0.002rem;
+    padding: 0.6rem 3rem;
+}
+nav p:hover{
+    color:grey;
+}
